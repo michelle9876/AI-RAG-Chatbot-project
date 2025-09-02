@@ -1,1 +1,1 @@
-# RAG-Chatbot-project
+# AI-RAG-Chatbot-project
